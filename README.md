@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Innovate.;Future+Full+Stack+Developer;Building+Digital+Solutions;Always+Learning+New+Tech">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Namaste+This+is+me+Unique+Adhikari.;Code.+Create.+Innovate.;Future+Full+Stack+Developer;Building+Digital+Solutions;Always+Learning+New+Tech">
 </p>
 
 
