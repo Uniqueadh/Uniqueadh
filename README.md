@@ -1,13 +1,24 @@
-Hi 👋, I'm Unique Adhikari
-**A passionate Coder
+<!-- ========================= -->
+<!--      HERO SECTION        -->
+<!-- ========================= -->
 
-Email Me 👉 ✉️ **Uniqueadhikari2021@gmail.com**
+<h1 align="center">⚡ Hi, I'm Unique Adhikari ⚡</h1>
 
-- 🔭 **I’m currently working on:** Government Website
-- 🌱 **I’m currently learning:** full stack developer
-- 💬 **Ask me about:** Tech Support
-- 📫 **How to reach me:** Uniqueadhikari2021@gmail.com
-- 😄 **Pronouns:** Unique Adhikari
+<h3 align="center">
+🚀 Passionate Coder | 💻 Full-Stack Developer in Progress | 🇳🇵 Nepal
+</h3>
+
+<p align="center">
+<a href="mailto:Uniqueadhikari2021@gmail.com">
+<img src="https://img.shields.io/badge/Email-Uniqueadhikari2021%40gmail.com-red?style=for-the-badge">
+</a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Innovate.;Future+Full+Stack+Developer;Building+Digital+Solutions;Always+Learning+New+Tech">
+</p>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/unique_adh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/unique-adhikari-6b1968334/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MrBlinDu) 
@@ -36,4 +47,4 @@ Email Me 👉 ✉️ **Uniqueadhikari2021@gmail.com**
 ---
 [![](https://visitcount.itsvg.in/api?id=Uniqueadh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">🔥 Let's Build Something Amazing Together 🔥</h2>
